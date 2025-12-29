@@ -1,0 +1,6 @@
+streamlit
+gymnasium
+numpy
+matplotlib
+seaborn
+pygame
